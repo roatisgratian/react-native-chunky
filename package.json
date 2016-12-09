@@ -1,6 +1,6 @@
 {
   "name": "react-native-chunky",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "description": "React Native Chunky helps you write more modular React Mobile apps.",
   "scripts": {
     "test": "jest"
